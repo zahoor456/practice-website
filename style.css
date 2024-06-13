@@ -1,0 +1,11 @@
+.background{
+    background-color: aqua;
+    forced-color-adjust: red ;
+    font-family: 'Times New Roman', Times, serif;
+}
+.background-image{
+    background-image: url("C:\Users\Ansari Zahoor\Pictures\html_img.png ");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    height: 100vh;
+}
